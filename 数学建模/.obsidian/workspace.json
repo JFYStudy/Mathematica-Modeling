@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "eaecf081ce89ec42",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae84ba761f0cc60b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4cffa97a610bfe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "资源/软件安装分享.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b6782dc8ae8f04f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc429e0ae366b70c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9b7d308593e8fab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ea07fd30d9dcc80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eff9ef471fb1b58c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.50152587890625
+  },
+  "right": {
+    "id": "05414e8ae1fdd1ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "a57997919c9341ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c94533d67e81695",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "资源/软件安装分享.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fca84f5c7406737b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "资源/软件安装分享.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d5b0d81575fc15a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a7fe04e2a21b6ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "资源/软件安装分享.md"
+              }
+            }
+          },
+          {
+            "id": "11d886414eeb79d5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "fuzzy-chinese-pinyin:FuzzySearch": false
+    }
+  },
+  "active": "e4cffa97a610bfe5",
+  "lastOpenFiles": [
+    "数学建模书籍/数学建模优秀论文精选与点评 2005-2010.pdf",
+    "数学建模书籍/数学建模算法与应用习题解答 司守奎.pdf",
+    "数学建模书籍/数学建模算法与应用 司守奎.pdf",
+    "数学建模书籍/数学模型 姜启源.pdf",
+    "资源/软件安装分享.md",
+    "资源",
+    "资料/心得分享/李佳萱-数学建模经验分享.pdf",
+    "资料/心得分享/李佳萱-数学建模经验分享.pdf.larkcache",
+    "资料/心得分享/苏博-数学建模经验分享.pdf",
+    "资料/心得分享/苏博-数学建模经验分享.pdf.larkcache",
+    "资料/心得分享",
+    "资料",
+    "日记/2023-06-18.md",
+    "日记/2023-06-17.md",
+    "日记/2023-06-16.md",
+    "期末考格局.canvas",
+    "期末周/马原/马原知识点.md",
+    "期末周/往年高数试卷/高数考点(2021-2022).md",
+    "期末周/往年高数试卷/曲线积分典型例题.md",
+    "期末周/C++笔试考点.md",
+    "日记/2023-06-04.md",
+    "期末周/马原/马原复习/导论.md",
+    "日记/2023-06-07.md",
+    "日记/2023-05-19.md",
+    "数学/数学竞赛/理工类试题/Pasted Image 20230606210941_911.png",
+    "期末周/马原/马原复习/第一章.md",
+    "Excalidraw/Drawing 2023-06-10 14.33.52.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-10 13.56.31.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-10 14.25.42.excalidraw.md",
+    "期末周/期末考试时间哒.md",
+    "日记/2023-06-09.md",
+    "Excalidraw/Drawing 2023-06-06 22.10.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-10 14.00.54.excalidraw.md",
+    "日记/2023-06-10.md",
+    "未命名 1.canvas",
+    "计算机科学/编程语言/C++/CPP-17-STL-cookbook/SUMMARY.md",
+    "未命名.canvas",
+    "计算机科学/编程语言/C++/大一校内课程/PPT/C++PPT.md",
+    "计算机科学/编程语言/C++/CPP-17-STL-cookbook/content/chapter8/chapter8-14-chinese.md",
+    "计算机科学/编程语言/C++/CPP-17-STL-cookbook/content/chapter1/chapter1-1-chinese.md",
+    "期末周/大学物理基础实验/课程报告/第十六周/figures/实验数据.jpg",
+    "期末周/大学物理基础实验/课程报告/第十六周/figures/系统温度随时间变化.png",
+    "数学/数学竞赛/理工类试题/Pasted image 20230523220812.png",
+    "计算机科学/cs skill tree.png",
+    "计算机科学/编程语言/C++/黑马程序员讲义和资料/提高编程能力资料/讲义/assets/1547105026929.png",
+    "计算机科学/编程语言/C++/黑马程序员讲义和资料/提高编程能力资料/讲义/assets/1547103297864.png",
+    "基础英语/Book review/review6.png",
+    "基础英语/Book review/review5.png",
+    "基础英语/Book review/review4.png",
+    "未命名 2.canvas",
+    "未命名 3.canvas"
+  ]
+}
